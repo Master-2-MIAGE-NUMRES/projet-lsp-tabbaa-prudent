@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lsp_exercice_24_25.iml" filepath="$PROJECT_DIR$/lsp_exercice_24_25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp3_prudent_tabbaa/src.iml" filepath="$PROJECT_DIR$/tp3_prudent_tabbaa/src.iml" />
     </modules>
   </component>
 </project>
